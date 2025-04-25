@@ -1,0 +1,130 @@
+*** Joueur A : à vous de jouer !
+________________________
+Joueur A
+          0  1  2  3  4 
+(0,_)   |  |  |  |  |  |
+(1,_)   |  |  |  |  |  |
+(2,_)   |  |  |CH|  |  |
+(3,_)   |  |  |  |  |  |
+(4,_)   |  |  |  |  |  |
+________________________
+A : Sur quelle ligne voulez-vous poser le domino (10, 'G0', 'G0') ? 2
+A : Sur quelle colonne voulez-vous poser le domino (10, 'G0', 'G0') ? 3
+A : Quelle sera l'orientation de la case gauche du domino (10, 'G0', 'G0') ? (top/bottom/left/right) left
+A : Le domino (10, 'G0', 'G0') a été ajouté.
+________________________
+Joueur A
+          0  1  2  3  4 
+(0,_)   |  |  |  |  |  |
+(1,_)   |  |  |  |  |  |
+(2,_)   |  |  |CH|G0|G0|
+(3,_)   |  |  |  |  |  |
+(4,_)   |  |  |  |  |  |
+________________________
+1 - Domino (4, 'F0', 'F0') Joueur None
+2 - Domino (11, 'G0', 'G0') Joueur None
+3 - Domino (20, 'Y1', 'B0') Joueur None
+4 - Domino (23, 'Y1', 'M0') Joueur None
+A : Sur quel domino posez-vous votre pion ? 3
+
+*** Joueur B : à vous de jouer !
+________________________
+Joueur B
+          0  1  2  3  4 
+(0,_)   |  |  |  |  |  |
+(1,_)   |  |  |  |  |  |
+(2,_)   |  |  |CH|  |  |
+(3,_)   |  |  |  |  |  |
+(4,_)   |  |  |  |  |  |
+________________________
+B : Le domino (19, 'Y1', 'F0') a été ajouté
+________________________
+Joueur B
+          0  1  2  3  4 
+(0,_)   |  |  |  |  |  |
+(1,_)   |  |  |  |  |  |
+(2,_)   |F0|Y1|CH|  |  |
+(3,_)   |  |  |  |  |  |
+(4,_)   |  |  |  |  |  |
+________________________
+1 - Domino (4, 'F0', 'F0') Joueur None
+2 - Domino (11, 'G0', 'G0') Joueur None
+3 - Domino (20, 'Y1', 'B0') Joueur A
+4 - Domino (23, 'Y1', 'M0') Joueur None
+B a choisi aléatoirement de poser son pion sur le domino 2
+
+*** Joueur B : à vous de jouer !
+________________________
+Joueur B
+          0  1  2  3  4 
+(0,_)   |  |  |  |  |  |
+(1,_)   |  |  |  |  |  |
+(2,_)   |F0|Y1|CH|  |  |
+(3,_)   |  |  |  |  |  |
+(4,_)   |  |  |  |  |  |
+________________________
+B : Le domino (24, 'F1', 'Y0') a été ajouté
+________________________
+Joueur B
+          0  1  2  3  4 
+(0,_)   |  |  |  |  |  |
+(1,_)   |  |  |  |  |  |
+(2,_)   |F0|Y1|CH|  |  |
+(3,_)   |  |F1|Y0|  |  |
+(4,_)   |  |  |  |  |  |
+________________________
+1 - Domino (4, 'F0', 'F0') Joueur None
+2 - Domino (11, 'G0', 'G0') Joueur B
+3 - Domino (20, 'Y1', 'B0') Joueur A
+4 - Domino (23, 'Y1', 'M0') Joueur None
+B a choisi aléatoirement de poser son pion sur le domino 4
+
+*** Joueur A : à vous de jouer !
+________________________
+Joueur A
+          0  1  2  3  4 
+(0,_)   |  |  |  |  |  |
+(1,_)   |  |  |  |  |  |
+(2,_)   |  |  |CH|G0|G0|
+(3,_)   |  |  |  |  |  |
+(4,_)   |  |  |  |  |  |
+________________________
+A : Sur quelle ligne voulez-vous poser le domino (48, 'Y0', 'M3') ? 3
+A : Sur quelle colonne voulez-vous poser le domino (48, 'Y0', 'M3') ? 2
+A : Quelle sera l'orientation de la case gauche du domino (48, 'Y0', 'M3') ? (top/bottom/left/right) top
+A : Le domino (48, 'Y0', 'M3') a été ajouté.
+________________________
+Joueur A
+          0  1  2  3  4 
+(0,_)   |  |  |  |  |  |
+(1,_)   |  |  |  |  |  |
+(2,_)   |  |  |CH|G0|G0|
+(3,_)   |  |  |Y0|  |  |
+(4,_)   |  |  |M3|  |  |
+________________________
+1 - Domino (4, 'F0', 'F0') Joueur None
+2 - Domino (11, 'G0', 'G0') Joueur B
+3 - Domino (20, 'Y1', 'B0') Joueur A
+4 - Domino (23, 'Y1', 'M0') Joueur B
+A : Sur quel domino posez-vous votre pion ? 3
+Impossible ! A : Sur quel domino posez-vous votre pion ? 1
+________________________
+Joueur A
+          0  1  2  3  4 
+(0,_)   |  |  |  |  |  |
+(1,_)   |  |  |  |  |  |
+(2,_)   |  |  |CH|G0|G0|
+(3,_)   |  |  |Y0|  |  |
+(4,_)   |  |  |M3|  |  |
+________________________
+________________________
+Joueur B
+          0  1  2  3  4 
+(0,_)   |  |  |  |  |  |
+(1,_)   |  |  |  |  |  |
+(2,_)   |F0|Y1|CH|  |  |
+(3,_)   |  |F1|Y0|  |  |
+(4,_)   |  |  |  |  |  |
+________________________
+Depot : {1: [(4, 'F0', 'F0'), 'A'], 2: [(11, 'G0', 'G0'), 'B'], 3: [(20, 'Y1', 'B0'), 'A'], 4: [(23, 'Y1', 'M0'), 'B']}
+Choix : {1: [(4, 'F0', 'F0'), 'A'], 2: [(11, 'G0', 'G0'), 'B'], 3: [(20, 'Y1', 'B0'), 'A'], 4: [(23, 'Y1', 'M0'), 'B']}
